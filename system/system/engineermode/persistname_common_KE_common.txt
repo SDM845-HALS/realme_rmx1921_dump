@@ -1,0 +1,2 @@
+com.opera.app.news
+com.opera.branding.news
