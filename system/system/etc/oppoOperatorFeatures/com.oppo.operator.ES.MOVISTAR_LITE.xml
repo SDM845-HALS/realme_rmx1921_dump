@@ -1,0 +1,5 @@
+<!-- This file is used by Exp Region: IR.  DO NOT MODIFY. -->
+<permissions>
+  <feature name="oppo.mms.max.size.500k" />
+  <feature name="oppo.mms.user.agent.movistar" />
+</permissions>

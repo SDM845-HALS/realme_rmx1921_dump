@@ -1,0 +1,13 @@
+com.lazada.android
+blibli.mobile.commerce
+com.infomedia.angkasapura2v2
+com.catfiz
+com.ertanto.kompas.official
+com.vova.android
+com.qidian.Int.reader
+id.co.babe
+com.jakarta.baca.lite
+com.msd.JTClient
+cn.wps.moffice_eng
+com.opera.app.news
+com.opera.branding.news
