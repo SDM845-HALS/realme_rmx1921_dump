@@ -1,0 +1,11 @@
+in.amazon.mShop.android.shopping
+net.one97.paytm
+com.eterno
+com.UCMobile.intl
+cn.wps.moffice_eng
+com.opera.app.news
+com.opera.branding.news
+app.buzz.share
+com.realmecomm.app
+com.realmestore.app
+com.bsbportal.music
